@@ -10,6 +10,7 @@ CREATE  TABLE STUDENT(
 	Mobile VARCHAR(50)
 )
 GO
+
 INSERT INTO STUDENT (id, Name,Email, Mobile ) VALUES ('101','Vasy BBB', 'dnskdfskd@gmail.com', '111111')
 INSERT INTO STUDENT (id, Name,Email, Mobile ) VALUES ('102','Vasy ewBBB', 'dnsk112dfskd@gmail.com', '33333')
 INSERT INTO STUDENT (id, Name,Email, Mobile ) VALUES ('103','Vasywe BBB', 'dnskdf33skd@gmail.com', '444')
